@@ -7,5 +7,5 @@ npm i
 expo start
 
 
-Also you can get app from at link below.
+Also you can get app
 https://expo.dev/@serhedi/rickAndMorty
